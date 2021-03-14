@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [Telegram](https://t.me/ParrotOmoshiroi)
 - 🤔 I’m looking for help with all of you
 - 💬 Ask me about Bot Telegram and related stuff
-- 📫 How to reach me: [Telegram - @xSatriouz](https://t.me/xSatriouz) [Facebook - @Satriouz](https://facebook.com/Satriouz/) [YouTube - @Satriouz](https://www.youtube.com/channel/UCSwf5zNZWiDKBHV1oWYk6DA) 
+- 📫 How to reach me: [Telegram - @xSatriouz](https://t.me/xSatriouz) | [Facebook - @Satriouz](https://facebook.com/Satriouz/) | [YouTube - @Satriouz](https://www.youtube.com/channel/UCSwf5zNZWiDKBHV1oWYk6DA) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I always listen to music and try things and more
 
