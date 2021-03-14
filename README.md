@@ -6,8 +6,6 @@
           \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \ \_\ \_\ 
            \ \_\ \_\ \____\/\____\/\____\ \____/\/\_\/\_\
             \/_/\/_/\/____/\/____/\/____/\/___/  \/_/\/_/
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satriouz&label=Views&color=red&style=plastic" alt="Satriouz" /> </p>
 <p align="center">
 <details>
     <summary><b>I am Satriouz 😋</b></summary>
@@ -71,3 +69,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome" />
 <img align="center" src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord" />
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Satriouz" />
+<img align="https://komarev.com/ghpvc/?username=Satriouz&label=Views&color=red&style=plastic" alt="Satriouz" />
