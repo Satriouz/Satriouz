@@ -11,8 +11,6 @@
 <p align="center">
 <details>
     <summary><b>I am Satriouz 😋</b></summary>
-
-
 <a href="https://twitter.com/Satriouz">
   <img align="left" alt="Satriouz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
